@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Greeting Application</title>
+</head>
+<body>
+<center><h1><b>Greetings Application</b></h1></center>
+<form action="./greet" method="get">
+Name<input type="text" name="uname"/>
+<br>
+<input type="submit" value="Go"/>
+
+</form>
+</body>
+</html>

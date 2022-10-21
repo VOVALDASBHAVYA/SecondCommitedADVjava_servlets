@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Calculator App</title>
+</head>
+<body>
+<center><h1><b><u>Calculation Application</u></b></h1></center>
+<form action="./calculation">
+Number1<input type="text" name="NumberOne"/>
+Number2<input type="text" name1="NumberTwo"/>
+<br>
+<input type="submit" value="click"/>
+</form>
+</body>
+</html>

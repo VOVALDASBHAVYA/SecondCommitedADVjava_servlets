@@ -1,0 +1,968 @@
+2022-10-17 14:32:48,659 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml
+2022-10-17 14:32:50,042 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 14:32:51,520 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/main/java
+2022-10-17 14:32:51,521 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Welcome/src/main/resources
+2022-10-17 14:32:51,523 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/test/java
+2022-10-17 14:32:53,071 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-10-17 14:32:54,014 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:32:54,025 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:32:54,028 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:32:54,030 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:32:57,236 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:32:57,239 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:32:57,241 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:32:57,242 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:33:58,858 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:33:58,860 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:33:58,861 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:33:58,862 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:34:42,667 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:34:42,671 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:34:42,673 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:34:42,677 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:37:24,053 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 14:37:24,660 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 14:37:25,415 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/main/java
+2022-10-17 14:37:25,416 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Welcome/src/main/resources
+2022-10-17 14:37:25,418 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/test/java
+2022-10-17 14:37:25,987 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Welcome
+2022-10-17 14:37:25,998 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 14:37:26,321 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:37:26,322 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:37:26,325 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:37:26,328 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:37:26,328 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Welcome
+2022-10-17 14:37:26,329 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Welcome
+2022-10-17 14:37:26,359 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:37:38,316 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 14:37:38,720 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 14:37:39,243 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/main/java
+2022-10-17 14:37:39,244 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Welcome/src/main/resources
+2022-10-17 14:37:39,245 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/test/java
+2022-10-17 14:37:39,615 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Welcome
+2022-10-17 14:37:39,623 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 14:37:39,873 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:37:39,891 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:37:39,898 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:37:39,899 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:37:39,901 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Welcome
+2022-10-17 14:37:39,901 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Welcome
+2022-10-17 14:37:39,909 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:41:08,968 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:41:08,975 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:41:08,977 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:41:08,978 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:41:10,055 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:41:10,057 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:41:10,058 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:41:10,060 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:42:31,686 [Worker-32] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2022-10-17 14:47:05,003 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 14:47:09,168 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:47:09,170 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:47:09,172 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:47:09,172 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:47:09,173 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Welcome
+2022-10-17 14:47:09,173 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Welcome
+2022-10-17 14:47:09,177 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:59:06,045 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 14:59:06,451 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 14:59:06,982 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/main/java
+2022-10-17 14:59:06,982 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Welcome/src/main/resources
+2022-10-17 14:59:06,982 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Welcome/src/test/java
+2022-10-17 14:59:07,357 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Welcome
+2022-10-17 14:59:07,357 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 14:59:07,560 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:59:07,576 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:59:07,576 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 14:59:07,592 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 14:59:07,592 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Welcome
+2022-10-17 14:59:07,592 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Welcome
+2022-10-17 14:59:07,607 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:05:23,986 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 15:06:28,605 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:06:28,605 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:06:28,605 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:06:28,605 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 15:13:08,913 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:13:08,924 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:13:08,925 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:13:08,926 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 15:13:45,776 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:13:45,777 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:13:45,778 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:13:45,779 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 15:17:41,820 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml
+2022-10-17 15:17:42,004 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 15:17:43,422 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/main/java
+2022-10-17 15:17:43,423 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GreetingsApp/src/main/resources
+2022-10-17 15:17:43,424 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/test/java
+2022-10-17 15:17:44,924 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-10-17 15:17:45,243 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:17:45,245 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:17:45,246 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:17:45,247 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:18:22,145 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 15:18:22,642 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 15:18:22,672 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 15:18:23,750 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/main/java
+2022-10-17 15:18:23,751 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GreetingsApp/src/main/resources
+2022-10-17 15:18:23,752 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/test/java
+2022-10-17 15:18:24,499 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for GreetingsApp
+2022-10-17 15:18:24,505 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-17 15:18:24,848 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 15:18:25,106 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:18:25,108 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:18:25,110 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:18:25,111 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:18:25,346 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:18:25,350 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:18:25,351 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:18:25,352 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 15:18:49,639 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:18:49,640 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:18:49,641 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:18:49,642 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 15:19:25,739 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:19:25,740 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:19:25,743 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:19:25,743 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:19:59,681 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:19:59,682 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:19:59,685 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:19:59,686 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:20:16,245 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 15:20:16,647 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 15:20:16,677 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-17 15:20:17,401 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/main/java
+2022-10-17 15:20:17,401 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GreetingsApp/src/main/resources
+2022-10-17 15:20:17,402 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/test/java
+2022-10-17 15:20:17,861 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for GreetingsApp
+2022-10-17 15:20:17,868 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 15:20:18,056 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:20:18,058 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:20:18,062 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:20:18,062 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:20:18,063 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of GreetingsApp
+2022-10-17 15:20:18,064 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for GreetingsApp
+2022-10-17 15:20:18,072 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:20:18,343 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:20:18,345 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:20:18,347 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:20:18,348 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-17 15:21:20,130 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:21:20,132 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:21:20,134 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:21:20,135 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:36:57,814 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:36:57,814 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:36:57,814 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:36:57,814 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:41:06,248 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:41:06,248 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:41:06,248 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:41:06,248 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:42:50,410 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:42:50,411 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:42:50,418 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:42:50,421 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:43:37,613 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:43:37,613 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:43:37,613 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:43:37,613 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:43:58,715 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:43:58,717 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:43:58,718 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:43:58,719 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:44:27,655 [Worker-41] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2022-10-17 15:46:11,877 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:46:11,879 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:46:11,881 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:46:11,883 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:47:04,304 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:47:04,304 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:47:04,304 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:47:04,304 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:49:47,685 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:49:47,685 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:49:47,685 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:49:47,685 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:55:16,771 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 15:55:17,380 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 15:55:17,443 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/main/java
+2022-10-17 15:55:17,443 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GreetingsApp/src/main/resources
+2022-10-17 15:55:17,443 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GreetingsApp/src/test/java
+2022-10-17 15:55:17,771 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for GreetingsApp
+2022-10-17 15:55:17,787 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 15:55:17,958 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:55:17,958 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:55:17,958 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:55:17,958 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:55:17,958 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of GreetingsApp
+2022-10-17 15:55:17,958 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for GreetingsApp
+2022-10-17 15:55:17,974 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:56:19,667 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:56:19,667 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:56:19,667 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:56:19,667 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:57:04,737 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:57:04,737 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:57:04,737 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:57:04,737 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:57:08,717 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:57:08,717 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:57:08,717 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:57:08,717 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:58:41,281 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:58:41,281 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:58:41,281 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:58:41,281 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 15:59:10,228 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:59:10,228 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:59:10,244 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 15:59:10,244 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 16:05:38,632 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml
+2022-10-17 16:05:38,991 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-17 16:05:39,397 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/main/java
+2022-10-17 16:05:39,397 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CalculationPage/src/main/resources
+2022-10-17 16:05:39,397 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/test/java
+2022-10-17 16:05:39,694 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-10-17 16:05:39,866 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:05:39,866 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:05:39,866 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:05:39,866 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:05:40,944 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:05:40,944 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:05:40,944 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:05:40,944 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:05:56,963 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:05:56,963 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:05:56,963 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:05:56,963 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:06:32,690 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 16:06:33,019 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-17 16:06:33,034 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 16:06:34,096 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/main/java
+2022-10-17 16:06:34,096 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CalculationPage/src/main/resources
+2022-10-17 16:06:34,096 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/test/java
+2022-10-17 16:06:34,299 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CalculationPage
+2022-10-17 16:06:34,299 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 16:06:34,503 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:34,503 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:06:34,503 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:34,503 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:06:34,503 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CalculationPage
+2022-10-17 16:06:34,503 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CalculationPage
+2022-10-17 16:06:34,503 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:34,697 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:34,697 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:06:34,697 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:34,697 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 16:06:51,395 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:51,395 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:06:51,395 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:06:51,395 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:07:06,539 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 16:07:06,805 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-17 16:07:06,836 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 16:07:07,539 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/main/java
+2022-10-17 16:07:07,539 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CalculationPage/src/main/resources
+2022-10-17 16:07:07,539 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/test/java
+2022-10-17 16:07:07,836 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CalculationPage
+2022-10-17 16:07:07,836 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 16:07:08,226 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:07:08,226 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:07:08,226 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:07:08,226 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:07:08,226 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CalculationPage
+2022-10-17 16:07:08,226 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CalculationPage
+2022-10-17 16:07:08,226 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:07:08,679 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:07:08,679 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:07:08,679 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:07:08,679 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 16:08:29,337 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:08:29,337 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:08:29,337 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:08:29,337 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:08:40,420 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-17 16:08:40,498 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:08:40,498 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:08:40,498 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:08:40,498 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:08:40,498 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CalculationPage
+2022-10-17 16:08:40,498 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CalculationPage
+2022-10-17 16:08:40,498 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:09:09,731 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 16:09:09,965 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-17 16:09:09,981 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 16:09:10,590 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/main/java
+2022-10-17 16:09:10,590 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CalculationPage/src/main/resources
+2022-10-17 16:09:10,590 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalculationPage/src/test/java
+2022-10-17 16:09:10,902 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CalculationPage
+2022-10-17 16:09:10,918 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 16:09:11,105 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:09:11,121 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:09:11,121 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:09:11,121 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:09:11,121 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CalculationPage
+2022-10-17 16:09:11,121 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CalculationPage
+2022-10-17 16:09:11,121 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:09:11,793 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:09:11,793 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:09:11,793 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:09:11,793 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 16:10:42,306 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:10:42,306 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:10:42,321 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:10:42,321 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:12:29,296 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:12:29,296 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:12:29,296 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:12:29,296 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:17:55,555 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:17:55,555 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:17:55,555 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:17:55,555 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:20:00,469 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:20:00,469 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:20:00,469 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:20:00,469 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:22:00,350 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:22:00,366 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:22:00,366 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:22:00,366 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:24:45,704 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:24:45,704 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:24:45,704 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:24:45,704 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:25:00,521 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:25:00,521 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:25:00,537 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:25:00,537 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:25:34,896 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:25:34,896 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:25:34,896 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:25:34,896 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:32:14,535 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:32:14,550 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:32:14,550 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:32:14,550 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:32:21,598 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:32:21,598 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:32:21,598 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:32:21,598 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:33:11,909 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:33:11,909 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:33:11,909 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:33:11,909 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:33:45,170 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:33:45,170 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:33:45,170 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:33:45,170 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-17 16:52:56,374 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:52:56,377 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:52:56,378 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:52:56,379 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 16:55:00,535 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:55:00,535 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:55:00,535 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:55:00,535 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 16:55:23,501 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:55:23,502 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 16:55:23,504 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 16:55:23,504 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 17:01:44,343 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml
+2022-10-17 17:01:44,745 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-17 17:01:45,207 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/main/java
+2022-10-17 17:01:45,207 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RequestDispatcherDemo/src/main/resources
+2022-10-17 17:01:45,209 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/test/java
+2022-10-17 17:01:45,438 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-10-17 17:01:45,622 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:01:45,623 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:01:45,625 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:01:45,627 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:01:46,738 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:01:46,740 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:01:46,742 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:01:46,744 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:02:52,323 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:02:52,323 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:02:52,323 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:02:52,323 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:03:12,909 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:03:12,909 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:03:12,915 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:03:12,915 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:05:34,805 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 17:05:35,118 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-17 17:05:35,133 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 17:05:36,060 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/main/java
+2022-10-17 17:05:36,060 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RequestDispatcherDemo/src/main/resources
+2022-10-17 17:05:36,061 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/test/java
+2022-10-17 17:05:36,345 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RequestDispatcherDemo
+2022-10-17 17:05:36,352 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 17:05:36,509 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:05:36,511 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:05:36,512 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:05:36,513 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 17:05:36,919 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:05:36,920 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:05:36,921 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:05:36,922 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:05:36,923 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestDispatcherDemo
+2022-10-17 17:05:36,923 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestDispatcherDemo
+2022-10-17 17:05:36,928 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:06,414 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 17:06:06,699 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-17 17:06:06,714 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-17 17:06:07,542 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/main/java
+2022-10-17 17:06:07,542 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RequestDispatcherDemo/src/main/resources
+2022-10-17 17:06:07,542 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/test/java
+2022-10-17 17:06:07,792 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RequestDispatcherDemo
+2022-10-17 17:06:07,792 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 17:06:08,042 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:08,042 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:06:08,042 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:08,042 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-17 17:06:08,245 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:08,245 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:06:08,245 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:08,245 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:06:08,261 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestDispatcherDemo
+2022-10-17 17:06:08,261 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestDispatcherDemo
+2022-10-17 17:06:08,261 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:13,806 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-17 17:06:14,165 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:14,165 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:06:14,165 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:14,165 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:06:14,165 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestDispatcherDemo
+2022-10-17 17:06:14,165 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestDispatcherDemo
+2022-10-17 17:06:14,165 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:40,134 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 17:06:40,352 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-17 17:06:40,821 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/main/java
+2022-10-17 17:06:40,821 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RequestDispatcherDemo/src/main/resources
+2022-10-17 17:06:40,821 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestDispatcherDemo/src/test/java
+2022-10-17 17:06:41,055 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RequestDispatcherDemo
+2022-10-17 17:06:41,071 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-10-17 17:06:41,227 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:41,227 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:06:41,227 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:06:41,227 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:06:41,227 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestDispatcherDemo
+2022-10-17 17:06:41,227 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestDispatcherDemo
+2022-10-17 17:06:41,227 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:08:58,972 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:08:58,972 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:08:58,972 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:08:58,972 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:18:00,491 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:18:00,493 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:18:00,494 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:18:00,495 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:18:36,327 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:18:36,327 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:18:36,332 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:18:36,332 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:20:03,645 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:20:03,647 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:20:03,648 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:20:03,649 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:20:39,115 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:20:39,115 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:20:39,131 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:20:39,131 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:26:04,192 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:26:04,193 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:26:04,194 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:26:04,195 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:27:23,439 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:27:23,439 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:27:23,439 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:27:23,439 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:29:31,810 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:29:31,811 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:29:31,812 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:29:31,813 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:30:12,594 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:30:12,594 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:30:12,594 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:30:12,594 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:30:30,964 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:30:30,965 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:30:30,966 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:30:30,967 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:32:46,297 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:32:46,298 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:32:46,300 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:32:46,301 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-17 17:33:45,551 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:33:45,551 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:33:45,551 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 17:33:45,566 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-18 11:57:22,065 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 11:57:22,088 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 11:57:22,089 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 11:57:22,090 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-18 12:00:46,203 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:00:46,248 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:00:46,249 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:00:46,250 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-18 12:07:14,607 [Worker-399] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml
+2022-10-18 12:07:15,249 [Worker-399] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 12:07:18,347 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SendRedirectDemo/src/main/java
+2022-10-18 12:07:18,347 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SendRedirectDemo/src/main/resources
+2022-10-18 12:07:18,347 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SendRedirectDemo/src/test/java
+2022-10-18 12:07:18,819 [Worker-399] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-10-18 12:07:19,150 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:07:19,158 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:07:19,159 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:07:19,160 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:07:21,065 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:07:21,065 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:07:21,066 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:07:21,066 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:07:38,069 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:07:38,070 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:07:38,071 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:07:38,072 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:08:11,537 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:08:11,538 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:08:11,540 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:08:11,541 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:08:18,642 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:08:18,643 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:08:18,645 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:08:18,646 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:09:42,688 [Worker-399] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 12:09:45,815 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:09:45,817 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:09:45,818 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:09:45,818 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:09:45,819 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SendRedirectDemo
+2022-10-18 12:09:45,819 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SendRedirectDemo
+2022-10-18 12:09:45,822 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:09:47,718 [Worker-399] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-18 12:09:47,986 [Worker-399] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 12:09:48,433 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SendRedirectDemo/src/main/java
+2022-10-18 12:09:48,433 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SendRedirectDemo/src/main/resources
+2022-10-18 12:09:48,434 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SendRedirectDemo/src/test/java
+2022-10-18 12:09:48,730 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SendRedirectDemo
+2022-10-18 12:09:48,738 [Worker-399] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-18 12:09:48,988 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:09:48,989 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:09:48,991 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:09:48,991 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:09:48,992 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SendRedirectDemo
+2022-10-18 12:09:48,992 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SendRedirectDemo
+2022-10-18 12:09:48,996 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:10:00,901 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:10:00,904 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:10:00,905 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:10:00,906 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:10:16,476 [Worker-399] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-18 12:10:16,690 [Worker-399] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 12:10:17,065 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SendRedirectDemo/src/main/java
+2022-10-18 12:10:17,065 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SendRedirectDemo/src/main/resources
+2022-10-18 12:10:17,065 [Worker-399] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SendRedirectDemo/src/test/java
+2022-10-18 12:10:17,333 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SendRedirectDemo
+2022-10-18 12:10:17,358 [Worker-399] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-10-18 12:10:17,639 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:10:17,640 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:10:17,641 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:10:17,641 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:10:17,641 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SendRedirectDemo
+2022-10-18 12:10:17,641 [Worker-399] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SendRedirectDemo
+2022-10-18 12:10:17,644 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:12:44,549 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:12:44,552 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:12:44,552 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:12:44,553 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:17:56,397 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:17:56,398 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:17:56,399 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:17:56,400 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:23:57,933 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:23:57,935 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:23:57,936 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:23:57,938 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:24:45,041 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:24:45,043 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:24:45,044 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:24:45,045 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 12:24:55,828 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:24:55,829 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:24:55,830 [Worker-399] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 12:24:55,831 [Worker-399] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:09:51,467 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-18 16:09:52,086 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-18 16:09:52,155 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-18 16:09:52,247 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 16:09:52,384 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-18 16:10:12,169 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:12,184 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:10:12,192 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:12,194 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-18 16:10:13,049 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,055 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:10:13,057 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,058 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-18 16:10:13,355 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,357 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:10:13,359 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,362 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-18 16:10:13,699 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,701 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:10:13,703 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,704 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-18 16:10:13,863 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,864 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:10:13,866 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:13,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:10:14,118 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:14,119 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:10:14,121 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:10:14,122 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-18 16:15:46,683 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:15:46,684 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:15:46,685 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:15:46,687 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:16:36,656 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:16:36,657 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:16:36,660 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:16:36,661 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:17:20,270 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:17:20,271 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:17:20,272 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:17:20,273 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:17:59,932 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:17:59,934 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:17:59,935 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:17:59,936 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:19:16,508 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:19:16,509 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:19:16,510 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:19:16,512 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:21:22,698 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:21:22,699 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:21:22,701 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:21:22,702 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:23:38,155 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:23:38,155 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:23:38,155 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:23:38,155 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:24:15,176 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:24:15,176 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:24:15,176 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:24:15,176 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:24:40,762 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:24:40,762 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:24:40,762 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:24:40,762 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:26:10,044 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:26:10,044 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:26:10,044 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:26:10,044 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:26:34,893 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:26:34,893 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:26:34,893 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:26:34,893 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:27:01,648 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:27:01,663 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:27:01,663 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:27:01,663 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:29:52,836 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:29:52,836 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:29:52,851 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:29:52,851 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:30:41,860 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:30:41,860 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:30:41,860 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:30:41,860 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:31:17,135 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:31:17,135 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:31:17,135 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:31:17,135 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:31:33,576 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:31:33,576 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:31:33,576 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:31:33,576 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:32:46,875 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:32:46,876 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:32:46,877 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:32:46,879 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:46:56,505 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\pom.xml
+2022-10-18 16:46:56,652 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:LifeCycleMethodsDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\pom.xml.
+2022-10-18 16:46:57,933 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleMethodsDemo/src/main/java
+2022-10-18 16:46:57,933 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleMethodsDemo/src/main/resources
+2022-10-18 16:46:57,933 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleMethodsDemo/src/test/java
+2022-10-18 16:46:58,771 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-10-18 16:46:59,063 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:46:59,063 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:46:59,063 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:46:59,063 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:47:00,145 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:47:00,147 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:47:00,149 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:47:00,150 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:47:23,999 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:47:24,004 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:47:24,004 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:47:24,004 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:48:43,909 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-18 16:48:44,440 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:LifeCycleMethodsDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\pom.xml.
+2022-10-18 16:48:44,471 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 16:48:44,503 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-18 16:48:44,518 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-18 16:48:44,550 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-18 16:48:45,861 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleMethodsDemo/src/main/java
+2022-10-18 16:48:45,861 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleMethodsDemo/src/main/resources
+2022-10-18 16:48:45,861 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleMethodsDemo/src/test/java
+2022-10-18 16:48:46,298 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LifeCycleMethodsDemo
+2022-10-18 16:48:46,298 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-18 16:48:46,747 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:46,747 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:48:46,747 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:46,747 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-18 16:48:46,779 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:46,779 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:48:46,779 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:46,779 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-18 16:48:46,841 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:LifeCycleMethodsDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\pom.xml.
+2022-10-18 16:48:46,950 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:46,950 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:48:46,950 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:46,950 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:48:47,169 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:47,169 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:48:47,169 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:47,169 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:48:47,200 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:47,200 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:48:47,200 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:48:47,200 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-18 16:49:10,137 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:10,137 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:49:10,137 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:10,137 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:49:20,253 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-18 16:49:20,659 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:LifeCycleMethodsDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\pom.xml.
+2022-10-18 16:49:20,690 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-18 16:49:20,706 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-18 16:49:21,424 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleMethodsDemo/src/main/java
+2022-10-18 16:49:21,424 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleMethodsDemo/src/main/resources
+2022-10-18 16:49:21,424 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleMethodsDemo/src/test/java
+2022-10-18 16:49:21,783 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LifeCycleMethodsDemo
+2022-10-18 16:49:21,799 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-18 16:49:22,158 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,158 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:49:22,158 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,158 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:49:22,158 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LifeCycleMethodsDemo
+2022-10-18 16:49:22,158 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LifeCycleMethodsDemo
+2022-10-18 16:49:22,174 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,471 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,471 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:49:22,471 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,471 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-18 16:49:22,486 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,502 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:49:22,502 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:49:22,502 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-18 16:52:14,293 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:52:14,297 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:52:14,298 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:52:14,299 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:52:37,644 [Worker-34] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:169) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.6.v20170307-1041.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2022-10-18 16:54:05,025 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:54:05,026 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:54:05,027 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:54:05,028 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 16:55:30,357 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:55:30,360 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:55:30,363 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 16:55:30,364 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-18 17:03:33,340 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 17:03:33,342 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 17:03:33,343 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-18 17:03:33,344 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-19 11:43:51,469 [Worker-414] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\pom.xml
+2022-10-19 11:43:52,051 [Worker-414] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:ConfigAndContext:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\pom.xml.
+2022-10-19 11:43:55,249 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigAndContext/src/main/java
+2022-10-19 11:43:55,249 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigAndContext/src/main/resources
+2022-10-19 11:43:55,249 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigAndContext/src/test/java
+2022-10-19 11:43:55,983 [Worker-414] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-10-19 11:43:56,558 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:43:56,570 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:43:56,571 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:43:56,572 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:43:58,758 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:43:58,759 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:43:58,760 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:43:58,761 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:44:10,893 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:44:10,895 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:44:10,896 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:44:10,897 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:44:27,359 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:44:27,360 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:44:27,360 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:44:27,361 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:45:20,796 [Worker-414] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:ConfigAndContext:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\pom.xml.
+2022-10-19 11:45:20,991 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:20,991 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:45:20,992 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:20,993 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:45:20,993 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ConfigAndContext
+2022-10-19 11:45:20,993 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ConfigAndContext
+2022-10-19 11:45:20,998 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:25,764 [Worker-414] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-19 11:45:26,825 [Worker-414] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:ConfigAndContext:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\pom.xml.
+2022-10-19 11:45:26,862 [Worker-414] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-19 11:45:30,193 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigAndContext/src/main/java
+2022-10-19 11:45:30,193 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigAndContext/src/main/resources
+2022-10-19 11:45:30,193 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigAndContext/src/test/java
+2022-10-19 11:45:30,590 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ConfigAndContext
+2022-10-19 11:45:30,595 [Worker-414] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-10-19 11:45:30,904 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:30,906 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:45:30,907 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:30,908 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:45:30,909 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ConfigAndContext
+2022-10-19 11:45:30,909 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ConfigAndContext
+2022-10-19 11:45:30,912 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:31,262 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:31,265 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:45:31,267 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:31,268 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-19 11:45:35,083 [Worker-414] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-19 11:45:35,359 [Worker-414] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:ConfigAndContext:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\pom.xml.
+2022-10-19 11:45:35,376 [Worker-414] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-19 11:45:35,884 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigAndContext/src/main/java
+2022-10-19 11:45:35,885 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigAndContext/src/main/resources
+2022-10-19 11:45:35,885 [Worker-414] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigAndContext/src/test/java
+2022-10-19 11:45:36,669 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ConfigAndContext
+2022-10-19 11:45:36,676 [Worker-414] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-19 11:45:36,823 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:36,825 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:45:36,826 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:36,828 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 11:45:36,828 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ConfigAndContext
+2022-10-19 11:45:36,828 [Worker-414] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ConfigAndContext
+2022-10-19 11:45:36,832 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:36,988 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:36,991 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:45:36,992 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:45:36,993 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources
+2022-10-19 11:50:02,886 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:50:02,887 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 11:50:02,888 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 11:50:02,889 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 12:00:03,742 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 12:00:03,743 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 12:00:03,744 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 12:00:03,744 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 12:00:16,428 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 12:00:16,429 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 12:00:16,430 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 12:00:16,430 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 15:21:52,312 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-19 15:21:52,312 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-19 15:22:04,287 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:04,296 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:04,732 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:CalculationPage:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\pom.xml.
+2022-10-19 15:22:04,739 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:04,740 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-19 15:22:05,282 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:ConfigAndContext:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\pom.xml.
+2022-10-19 15:22:05,343 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:GreetingsApp:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\pom.xml.
+2022-10-19 15:22:05,675 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:LifeCycleMethodsDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\pom.xml.
+2022-10-19 15:22:05,718 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:RequestDispatcherDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\pom.xml.
+2022-10-19 15:22:05,787 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:SendRedirectDemo:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\pom.xml.
+2022-10-19 15:22:05,825 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ojas:Welcome:0.0.1-SNAPSHOT @ C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\pom.xml.
+2022-10-19 15:22:08,308 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:08,312 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:08,313 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:08,315 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\CalculationPage\src\test\resources
+2022-10-19 15:22:08,485 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:08,486 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:08,488 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:08,489 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\ConfigAndContext\src\test\resources
+2022-10-19 15:22:09,018 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:09,020 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:09,021 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:09,022 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\GreetingsApp\src\test\resources
+2022-10-19 15:22:09,303 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:09,305 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:09,309 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:09,310 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\LifeCycleMethodsDemo\src\test\resources
+2022-10-19 15:22:09,721 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:09,722 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:09,723 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:09,725 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\RequestDispatcherDemo\src\test\resources
+2022-10-19 15:22:10,569 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:10,572 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:10,573 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:10,574 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\SendRedirectDemo\src\test\resources
+2022-10-19 15:22:11,169 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:11,171 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-19 15:22:11,174 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-19 15:22:11,176 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bv22074\OneDrive - Ojas Innovative Technologies Pvt Lt\servltesProject\Welcome\src\test\resources

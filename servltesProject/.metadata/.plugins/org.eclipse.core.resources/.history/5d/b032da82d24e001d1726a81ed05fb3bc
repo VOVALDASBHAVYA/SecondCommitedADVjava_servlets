@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>MY GOOGLE SEARCH</title>
+</head>
+<body>
+<div class="container">
+<center style=color:blue><h1><u>GOOGLE SEARCH ENGINE</u></h1></center>
+<form action="./search" method="post">
+<cemter><input type="text" name="data" size="100"/>
+<input type="submit" value="search"/></cemter>
+</form>
+</div>
+</body>
+</html>
